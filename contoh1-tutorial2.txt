@@ -1,5 +1,4 @@
 TUTORIAL BRANCH PERTAMA
-test1
 test2
 
 test3
@@ -9,6 +8,8 @@ test4
 -Javascript
  *ES6
  *Framework Javascript
-
+  ^Angular
+  ^React
 -PHP Framework
+ ^Laravel
 -test5
