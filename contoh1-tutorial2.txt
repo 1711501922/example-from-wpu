@@ -8,7 +8,6 @@ test4
 -Javascript
  *ES6
  *Framework Javascript
-  ^Angular
   ^React
   ^Vue
 -Struktur Data Dasar
