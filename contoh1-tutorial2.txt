@@ -16,4 +16,3 @@ test4
   ^Code Igniter
 -test5
 -Python
--Struktur Data Dasar
