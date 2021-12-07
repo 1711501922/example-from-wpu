@@ -8,8 +8,9 @@ test4
 -Javascript
  *ES6
  *Framework Javascript
-  ^Angular
+  ^Vue
   ^React
 -PHP Framework
- ^Laravel
+  ^Laravel
 -test5
+-Python
