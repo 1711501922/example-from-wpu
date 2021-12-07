@@ -10,8 +10,10 @@ test4
  *Framework Javascript
   ^Vue
   ^React
+  ^Angular
 -PHP Framework
   ^Laravel
+  ^Code Igniter
 -test5
 -Python
 -Struktur Data Dasar
