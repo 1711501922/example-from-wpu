@@ -10,6 +10,7 @@ test4
  *ES6
  *Framework Javascript
   ^Vue
+  ^React
 -PHP Framework
   ^Laravel
 -test5
