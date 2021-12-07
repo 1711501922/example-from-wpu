@@ -8,7 +8,9 @@ test4
 -Javascript
  *ES6
  *Framework Javascript
--Struktur Data Dasar
+  ^Angular
+  ^React
 -PHP Framework
+ ^Laravel
 -Tutorial Katalon
 -Python
