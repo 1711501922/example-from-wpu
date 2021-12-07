@@ -8,12 +8,7 @@ test4
 -Javascript
  *ES6
  *Framework Javascript
-  ^Vue
-  ^React
-  ^Angular
 -Struktur Data Dasar
 -PHP Framework
-  ^Laravel
-  ^Code Igniter
--test5
+-Tutorial Katalon
 -Python
